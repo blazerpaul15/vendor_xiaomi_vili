@@ -19,7 +19,6 @@ enableCameraCoreDumpBinary=FALSE
 enableCameraCoreDumpText=FALSE
 enablePerRequestSync=FALSE
 
-
 # SAT
 isZoomRatioSupported=TRUE
 isSwitchAnimationSupported=FALSE
@@ -78,7 +77,6 @@ isVideoBeautyEISSupported=TRUE
 #input size only maxsize for cts
 minReprocessInputWidth=0x1FFF
 minReprocessInputHeight=0x1FFF
-
 
 #Quickview Function
 enableCHIPartialData=1

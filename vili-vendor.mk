@@ -1469,7 +1469,6 @@ PRODUCT_PACKAGES += \
     CneApp \
     com.android.hotwordenrollment.common.util \
     com.qti.dpmframework \
-    DaxUI \
     daxService \
     dpmapi \
     dpmserviceapp \
